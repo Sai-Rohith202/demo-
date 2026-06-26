@@ -1,4 +1,4 @@
 # demo-
-This is my first git Repository
+This is the projects area
 <br>
 
